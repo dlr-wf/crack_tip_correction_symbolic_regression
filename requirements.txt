@@ -1,0 +1,24 @@
+ansys_mapdl_core
+matplotlib
+numpy
+pandas
+natsort
+gplearn
+latex2sympy2
+
+git+https://gitlab.dlr.de/wf_mhw/crackpy.git@develop
+git+https://github.com/WassimTenachi/PhySO.git
+
+# PhySO requires the following packages:
+torch>=2.0.0
+sympy == 1.10.1
+tqdm
+scikit-learn
+jupyterlab
+pip
+dot2tex
+pdflatex == 0.1.3
+pdf2image == 1.16.0
+pillow==9.5.0
+#pygraphviz == 1.9
+opencv-python~=4.7.0.72
