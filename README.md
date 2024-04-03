@@ -133,7 +133,7 @@ We apply the discovered mode I formulas to experimental DIC data using the scrip
 - `13c_Application_DIC_biaxial_pipeline.py`
 - `13d_Application_Mic_DIC_biaxial_pipeline.py`
 
-| <img src="./docs/images/Dic_Microscope_dic_results_0_151_iteration_13.png" alt="Iterative correction" width="480"/> | <img src="./docs/images/Dic_Microscope_dic_results_0_151_convergence.png" alt="Convergence" width="480"/> |
+| <img src="https://github.com/dlr-wf/crack_tip_correction_symbolic_regression/blob/main/docs/images/Dic_Microscope_dic_results_0_151_iteration_13.png" alt="Iterative correction" width="480"/> | <img src="https://github.com/dlr-wf/crack_tip_correction_symbolic_regression/blob/main/docs/images/Dic_Microscope_dic_results_0_151_convergence.png" alt="Convergence" width="480"/> |
 |:-------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
 |                  **Iterative correction for high-resolution DIC data of uniaxial test experiment**                  |                             **Convergence of $A_{-1}$ and $B_{-1}$ to zero**                              |
 
