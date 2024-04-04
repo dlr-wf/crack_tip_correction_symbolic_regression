@@ -1,4 +1,4 @@
-# Crack tip correction algorithms discovered by physical deep symbolic regression
+# Crack tip correction discovered by physical symbolic regression
 
 This repository contains the code used to generate the results of the research article
 ```
