@@ -1,5 +1,6 @@
 # Crack tip correction discovered by physical symbolic regression
-[![DOI](https://zenodo.org/badge/781435999.svg)](https://zenodo.org/doi/10.5281/zenodo.10925303)
+[![DOI](https://zenodo.org/badge/781435999.svg)](https://zenodo.org/doi/10.5281/zenodo.10925303) (Code) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10730749.svg)](https://doi.org/10.5281/zenodo.10730749) (Data)
 
 This repository contains the code used to generate the results of the research article
 ```
