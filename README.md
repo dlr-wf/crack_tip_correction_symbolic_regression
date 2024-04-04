@@ -1,4 +1,4 @@
-# Crack tip correction
+# Crack tip correction algorithms discovered by physical deep symbolic regression
 
 This repository contains the code used to generate the results of the research article
 ```
@@ -28,6 +28,8 @@ improved stability of the crack propagation curves.*
 To run the simulations, we used Ansys Mechanical APDL 2023 R1.
 *  <a href="https://github.com/dlr-wf/crackpy" target="_blank">CrackPy</a>: 
 We used CrackPy version 1.2.0 to determine the Williams coefficients. 
+*  <a href="https://github.com/WassimTenachi/PhySO" target="_blank">PhySO</a>: 
+We used PhySO version v1.0.0 to perform symbolic regression. 
 
 ## Installation
 
@@ -38,11 +40,11 @@ pip install -r requirements.txt
 ```
 3. Install the CrackPy package using the following command:
 ```shell
-pip install --upgrade git+https://gitlab.dlr.de/wf_mhw/crackpy.git@develop
+pip install git+https://github.com/dlr-wf/crackpy.git@1.2.0
 ```
 4. Install the PhySO package using the following command:
 ```shell
-pip install --upgrade git+https://github.com/WassimTenachi/PhySO.git
+pip install git+https://github.com/WassimTenachi/PhySO.git@v1.0.0
 ```
 
 The repository contains the following folders:
