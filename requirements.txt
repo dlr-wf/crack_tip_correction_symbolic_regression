@@ -6,8 +6,8 @@ natsort
 gplearn
 latex2sympy2
 
-git+https://gitlab.dlr.de/wf_mhw/crackpy.git@develop
-git+https://github.com/WassimTenachi/PhySO.git
+git+https://github.com/dlr-wf/crackpy.git@1.2.0
+git+https://github.com/WassimTenachi/PhySO.git@1.0.0
 
 # PhySO requires the following packages:
 torch>=2.0.0
