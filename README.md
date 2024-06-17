@@ -4,10 +4,12 @@
 
 This repository contains the code used to generate the results of the research article
 ```
-David Melching, Tobias Strohmann, Florian Paysan and Eric Breitbarth. (2024)
-A universal crack tip correction algorithm discovered by physical deep symbolic regression. 
+David Melching, Tobias Strohmann, Florian Paysan and Eric Breitbarth.
+An iterative crack tip correction algorithm discovered by physical deep symbolic regression.
+International Journal of Fatigue 187 (2024) 108432.
 ```
-The preprint is available on <a href="https://doi.org/10.48550/arXiv.2403.10320" target="_blank">arXiv</a>.
+
+The article is published <a href="https://doi.org/10.1016/j.ijfatigue.2024.108432" target="_blank">here</a>.
 All data resulting from this study is available on <a href="https://doi.org/10.5281/zenodo.10730749" target="_blank">Zenodo</a>.
 
 ## Abstract
