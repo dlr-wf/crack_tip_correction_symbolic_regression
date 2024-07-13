@@ -5,6 +5,8 @@ pandas
 natsort
 gplearn
 latex2sympy2
+requests
+tqdm
 
 git+https://github.com/dlr-wf/crackpy.git@1.2.0
 git+https://github.com/WassimTenachi/PhySO.git@1.0.0
